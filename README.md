@@ -41,11 +41,13 @@ During the daytime when there is a light, the LDR has very low resistance and al
 # Output
 
 ### Schematic diagram
+![Image](https://github.com/dfghytr/PCB-Design--Automatic-night-lamp/assets/138970628/c531df62-5a6c-4093-9ca2-ba740316c28c)
 
 
 
 ### Layout diagram
 
+![Image](https://github.com/dfghytr/PCB-Design--Automatic-night-lamp/assets/138970628/9d5d5c56-976d-4325-9da2-ac72fa9b509f)
 
 
 
